@@ -1,0 +1,11 @@
+Feature,Mean_SHAP
+cadmium_log,0.17002659
+bmi,0.16404219
+lead_log,0.119985916
+age,0.09611592
+mercury_log,0.0855234
+race_Other / Multiracial,0.043521795
+education,0.040196933
+pregnant_now,0.034069266
+race_Non-Hispanic Black,0.02936834
+race_Non-Hispanic White,0.028485602
