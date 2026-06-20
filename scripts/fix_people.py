@@ -1,0 +1,5 @@
+content = open('C:/Users/008bu/Documents/GBD-NHANES-MR/scripts/gen_eh_v2.py', encoding='utf-8').read()
+content = content.replace("People's Hospital", "People Hospital")
+content = content.replace("People's Hospital", "People Hospital")
+open('C:/Users/008bu/Documents/GBD-NHANES-MR/scripts/gen_eh_v2.py', 'w', encoding='utf-8').write(content)
+print('Fixed')
