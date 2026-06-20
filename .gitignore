@@ -1,0 +1,1 @@
+*.pkl\n*.pyc\n__pycache__/\n*.docx\ndata/raw/\n.env\n
